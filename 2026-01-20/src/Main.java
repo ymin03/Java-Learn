@@ -10,12 +10,12 @@ public class Main {
         System.out.print(", 나이: "+ age);
         System.out.println(", 키: "+ height);
 
-        
+
         System.out.println(age);
         System.out.println(height);
         System.out.println(name);
 
         System.out.println("이름은 " + name);
-         
+
     }
 }
